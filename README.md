@@ -1,4 +1,4 @@
-**Particulate Matter (PM10) Visualization and prediction in R**  
+**Particulate Matter (PM10, PM2.5) Visualization and prediction in R**  
 • Visualized particulate matter level at every bus stop in the Daegu city through RShiny  
 •	Prepared technical reports and slides and presented outputs to the audience  
 • Collaborated with computer science major students about database server connections in R  
