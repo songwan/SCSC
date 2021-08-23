@@ -1,5 +1,6 @@
 Particulate Matter (PM10) Visualization and prediction in R  
 • Visualized particulate matter level at every bus stop in the Daegu city through RShiny  
+•	Prepared technical reports and slides and presented outputs to the audience  
 • Collaborated with computer science major students about database server connections in R  
 • Awarded an excellence prize on the Samsung Convergence Software Course (SCSC) contest ([Awards link](https://drive.google.com/file/d/1m1GseyUlxR8DF_sroxxCxK0aeMw3wS9R/view?usp=sharing, "SCSC exellence award"))
 
