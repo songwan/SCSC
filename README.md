@@ -3,7 +3,7 @@ Particulate Matter (PM10) Visualization and prediction in R
 • Collaborated with computer science major students about database server connections in R  
 • Awarded an excellence prize on the Samsung Convergence Software Course (SCSC) contest  
 
-[Awards link] - shorturl.at/cCQUW
+[Awards link](https://drive.google.com/file/d/1m1GseyUlxR8DF_sroxxCxK0aeMw3wS9R/view?usp=sharing, "SCSC exellence award")
 
 <br>
 <p align="middle">
