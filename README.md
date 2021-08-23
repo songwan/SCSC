@@ -15,5 +15,5 @@ Particulate Matter (PM10) Visualization and prediction in R
 
 <br>
 <p align="middle">
-<img src="/www/dustwave.png" width="1000px">
+<img src="https://user-images.githubusercontent.com/50762980/130417706-45094abc-b547-446c-955c-297a5b7c6840.gif" width="1000px">
 </p>
